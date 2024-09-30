@@ -1,7 +1,5 @@
 # Portfolio
 
-personal portfolio
-
 ## After Effects
 
 ## Visual Components
